@@ -1,0 +1,50 @@
+internet download manager 6.30 build 6
+
+Operasional Project Control		Data RAB
+
+no_urut							no_urut
+kd_aktivitas					kd_rab
+nomorpid						nomorpid
+namasow							namasow
+tglmulai						nominalrab
+tglvalidasisite					keteranganrab
+tglapprovalcandidat				nominalrab1
+statuslahansis					keteranganrab1
+tgliw							nominalrab2
+tglrtrw							keteranganrab2
+tglrekomlurah					nominalrab3
+tglrekomcamat					keteranganrab3
+tglsoilhammer					nominalrab4
+tglapd							keteranganrab4
+tglrfc							nominalrab5
+tgldaftar						keteranganrab5
+tglsurvelokasi					nominalrab6
+tglbayarretribusi				keteranganrab6
+tglimbptsp						nominalrab7
+tglpendukungimb					keteranganrab7
+tglkwh							nominalrab8
+idpelanggan						keteranganrab8
+tglrfi							nominalrab9
+tglatp							keteranganrab9
+tglskom							nominalrab10
+tglexcavation					keteranganrab10
+tglrebaring						nominalrab11
+tglpouring						keteranganrab11
+tglcuring						nominalrab12
+tgltowererection				keteranganrab12
+tglmeongoing					nominalrab13
+keteranganform					keteranganrab13
+lamarfc							nominalrab14
+lamarfi							keteranganrab14
+atptorfi						nominalrab15
+waktucme						keteranganrab15
+waktucivil						nominalrab16
+								keteranganrab16
+								nominalrab17
+								keteranganrab17
+								nominalrab18
+								keteranganrab18
+								nominalrab19
+								keteranganrab19
+								namapm
+								totalrab
